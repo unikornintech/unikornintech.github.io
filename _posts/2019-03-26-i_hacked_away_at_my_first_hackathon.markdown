@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I Hacked Away @ My First Hackathon"
-date:       2019-03-26 16:15:57 +0000
+date:       2019-03-26 12:15:58 -0400
 permalink:  i_hacked_away_at_my_first_hackathon
 ---
 
